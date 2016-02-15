@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="translucent">#00000000</color>
+    <color name="trans_half">#88000000</color>
+    <color name="trans_dark">#aa000000</color>
+    <color name="global_bg">#ffb83c</color>
+    <color name="main_bg">#EFF0F1</color>
+    <color name="main_yellow">#FFC033</color>
+    <color name="main_orange">#FF9800</color>
+    <color name="main_blue">#006CF9</color>
+    <color name="main_red">#E51C23</color>
+    <color name="main_green">#8CC249</color>
+    <color name="main_gray">#999999</color>
+    <color name="trans_mask">#99000000</color>
+    <color name="trans_mask_dark">#CC000000</color>
+    <color name="light_blue">#26C6DC</color>
+    <color name="dark_blue">#00A0B7</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="dark_green">#6D9F35</color>
+    <color name="light_gray">#666666</color>
+    <color name="dark_gray">#4D4D4D</color>
+    <color name="light_black">#333333</color>
+    <color name="dark_black">#121011</color>
+    <color name="tab_normal">#999999</color>
+    <color name="tab_select">#fab746</color>
+
+    <color name="txt_lvl_1">@color/black</color>
+    <color name="txt_lvl_2">#545454</color>
+    <color name="txt_lvl_3">#7F7F7F</color>
+    <color name="txt_lvl_4">#AAAAAA</color>
+    <color name="txt_lvl_5">#CCCCCC</color>
+    <color name="line_color">#D8D8D8</color>
+    <color name="bg_gray_color">#EFF0F1</color>
+    <color name="gray_lvl_3">#E8E8E8</color>
+
+
+    <!-- temp colors -->
+    <color name="white_lvl_3">#E0E0E0</color>
+    <color name="white_lvl_2">#EFEFEF</color>
+    <color name="white_lvl_1">#F8F6F6</color>
+</resources>
